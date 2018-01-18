@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Sprites/brushwalker437.png</file>
+        <file>Sprites/tex_Water.jpg</file>
+        <file>Sprites/sss.png</file>
+        <file>Sprites/logo.png</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file>Sprites/logo.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+﻿  TestInsultGenerator.cpp
+  Generating Code...
+  Compiling...
+  InsultGenerator.cpp
+c:\users\kalra\onedrive\documents\queen's\year 4\fall 2017\cmpe 320\a1-10157529\a1-10157529\insultgenerator.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\kalra\onedrive\documents\queen's\year 4\fall 2017\cmpe 320\a1-10157529\a1-10157529\insultgenerator.cpp(75): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  A1-10157529.vcxproj -> C:\Users\kalra\OneDrive\Documents\Queen's\Year 4\Fall 2017\CMPE 320\A1-10157529\Debug\A1-10157529.exe
+  A1-10157529.vcxproj -> C:\Users\kalra\OneDrive\Documents\Queen's\Year 4\Fall 2017\CMPE 320\A1-10157529\Debug\A1-10157529.pdb (Partial PDB)
